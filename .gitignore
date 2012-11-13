@@ -1,0 +1,11 @@
+/*.opensdf
+/*.sdf
+/*.suo
+/Release
+/Debug
+/MAPIAddrListSearch/Release
+/MAPIAddrListSearch/Debug
+/MAPIAddrListSearch/*.user
+/MAPIDefaultAddressList/Release
+/MAPIDefaultAddressList/Debug
+/MAPIDefaultAddressList/*.user

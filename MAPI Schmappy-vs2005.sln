@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MAPIAddrListSearch", "MAPIAddrListSearch\MAPIAddrListSearch-vs2005.vcproj", "{18E58466-BD44-4427-BD0A-05A6111F93AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MAPIDefaultAddressList", "MAPIDefaultAddressList\MAPIDefaultAddressList-vs2005.vcproj", "{0881220B-F4FF-4FA9-87C9-5E503C782092}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0880C06B-1BE7-4C2D-9486-8EC104F3B086}"
+	ProjectSection(SolutionItems) = preProject
+		SetOutlookDefaults.cmd = SetOutlookDefaults.cmd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18E58466-BD44-4427-BD0A-05A6111F93AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{18E58466-BD44-4427-BD0A-05A6111F93AE}.Debug|Win32.Build.0 = Debug|Win32
+		{18E58466-BD44-4427-BD0A-05A6111F93AE}.Release|Win32.ActiveCfg = Release|Win32
+		{18E58466-BD44-4427-BD0A-05A6111F93AE}.Release|Win32.Build.0 = Release|Win32
+		{0881220B-F4FF-4FA9-87C9-5E503C782092}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0881220B-F4FF-4FA9-87C9-5E503C782092}.Debug|Win32.Build.0 = Debug|Win32
+		{0881220B-F4FF-4FA9-87C9-5E503C782092}.Release|Win32.ActiveCfg = Release|Win32
+		{0881220B-F4FF-4FA9-87C9-5E503C782092}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
